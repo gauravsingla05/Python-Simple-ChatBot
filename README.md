@@ -1,4 +1,4 @@
-# Intelligent Chatbot for Question-Answering
+# Simple Python Chatbot for Question-Answering
 
 This Python-based chatbot is designed to answer questions using a provided CSV dataset. It incorporates natural language processing libraries to enhance its intelligence. To use this chatbot, follow these steps:
 
